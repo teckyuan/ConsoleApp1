@@ -10,6 +10,9 @@ namespace ConsoleApp2
     {
         static void Main(string[] args)
         {
+            var x = 10;
+
+            var d = x + 100;
         }
     }
 }
